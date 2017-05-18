@@ -1,11 +1,11 @@
 
 @font-face {
 	font-family: Naruto;
-	src: "njnaruto.tt";
+	src: url("njnaruto.tt");
 }
 
 body {
-	background: "boruto.jpg";
+	background: url("boruto.jpg");
 }
 
 h1 {
