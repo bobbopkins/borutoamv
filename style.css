@@ -1,26 +1,28 @@
 
 @font-face {
 	font-family: Naruto;
-	src: url("njnaruto.ttf");
+	src: url('../njnaruto.ttf');
 }
 
 body {
-	background: url("boruto.jpg");
+	background: url("../img/boruto.jpg");
+	max-height: 100%;
+	max-width: 100%;
 }
 
 h1 {
-	font-family: Naruto;
-	color: rgb(255, 0, 255);
-	text-align: center;
-	font-weight: bold;
 	background: rgba(0, 204, 255,.75);
+	color: rgb(255, 0, 255);
+	font-family: Naruto;
+	font-weight: bold;
+	text-align: center;
 }
 
 p {
+	background: rgba(0, 204, 255,.75);
 	color: rgb(255, 0, 255);
 	font-weight: bold;
 	text-align: center;
-	background: rgba(0, 204, 255,.75);
 }
 
 	
