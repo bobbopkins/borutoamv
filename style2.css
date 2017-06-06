@@ -1,0 +1,33 @@
+
+@font-face {
+	font-family: Naruto;
+	src: url('../njnaruto.ttf');
+}
+
+body {
+	background: url("../img/team7.jpg");
+	max-height: 100%;
+	max-width: 100%;
+}
+
+
+h1 {
+	background: rgba(0, 0, 0,.75);
+	color: rgb(255, 102, 0);
+	font-family: Naruto;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	background: rgba(0, 204, 255,.75);
+	color: rgb(255, 0, 255);
+	font-weight: bold;
+	text-align: center;
+}
+
+video {
+	background: rgba(255, 0, 0,.5);
+	border: solid rgba(255, 0, 0,.5);
+	margin-bottom: 20%;
+}
