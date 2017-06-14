@@ -2,7 +2,7 @@
 
 @font-face {
 	font-family: Naruto;
-	src: url(njnaruto.ttf);
+	src: url('njnaruto.ttf');
 }
 
 body {
